@@ -1,0 +1,15 @@
+# SafeCampus: University Women's Safety App
+
+## Objective
+This app enhances the safety of female students within a university campus by providing real-time location sharing, an emergency SOS button, and other security features.
+
+### Key Features:
+* Emergency SOS button to send a distress signal with live location.
+* Admin dashboard to monitor emergencies.
+* Check-in/out system for high-risk areas.
+* Safety tips and resources.
+
+### How to Run:
+1. Clone the repository.
+2. Install dependencies using `pip install -r requirements.txt`.
+3. Run the app using `streamlit run app.py`.
